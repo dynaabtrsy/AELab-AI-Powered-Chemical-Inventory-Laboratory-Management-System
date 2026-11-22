@@ -10,14 +10,13 @@ The platform aims to improve laboratory operations through automated workflows, 
 
 1. [Overview](#-1-overview)
 2. [Executive Summary](#-2-executive-summary)
-3. [Methodology](#-3-methodology)
+3. [Methodology](#%EF%B8%8F-3-methodology)
 4. [Key Findings](#-4-key-findings)
 5. [Recommendations](#-5-recommendations)
-6. [Limitations](#-6-limitations)
+6. [Limitations](#%EF%B8%8F-6-limitations)
 7. [Project Impact](#-7-project-impact)
 8. [Apps Overview & Demo Video](#-8-apps-overview--demo-video)
-9. [Technologies & Tools](#-9-technologies--tools)
-10. [Project Team](#-10-project-team)
+9. [Technologies & Tools](#%EF%B8%8F-9-technologies--tools)
 
 ---
 
