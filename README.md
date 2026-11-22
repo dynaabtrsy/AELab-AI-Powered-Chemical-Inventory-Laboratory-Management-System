@@ -312,7 +312,8 @@ AELab consists of interconnected modules designed to support different stages of
 
 ### 8.1 Application Dashboard
 
-![AELab Dashboard](assets/images/dashboard.png)
+![AELab Dashboard]("https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb")
+
 
 Provides an overview of laboratory inventory conditions, including stock health, low-stock items and near-expiry chemicals.
 
@@ -367,19 +368,6 @@ The demonstration covers:
 | Scheduling & Reminders | Google Calendar, Google Tasks |
 | UI/UX Design | AppSheet Interface Design |
 
----
-
-## 👥 10. Project Team
-
-**Team Aevy – International Islamic University Malaysia**
-
-| Team Member | Role |
-|---|---|
-| Nur Najihah Binti Mohd Zamrisham | Team Leader, App Development & Research |
-| Dayana Batrisya Binti Ramile | Dashboard & UI Design |
-| Nurul Hana Binti Abdul Halim | Gemini AI & Google Workspace Automation |
-
-**Project Advisor:** Asst. Prof. Dr. Hafizah Bahaludin
 
 ---
 
