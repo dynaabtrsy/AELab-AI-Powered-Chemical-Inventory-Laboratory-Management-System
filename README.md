@@ -355,7 +355,7 @@ Provides AI-assisted chemical safety information, bilingual guidance and monthly
 
 ### 8.6 Demo Video
 
-**Application Walkthrough:**![AELab Video Link](https://drive.google.com/file/d/1MMxLv1HJsIC6z8qfeAcCGiDYO9uJbylT/view?usp=sharing)
+**Application Walkthrough:** [Click here to watch a 3-minutes AELab Demo Video Link](https://drive.google.com/file/d/1MMxLv1HJsIC6z8qfeAcCGiDYO9uJbylT/view?usp=sharing)
 
 The demonstration covers:
 1. Navigating the AELab dashboard.
