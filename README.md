@@ -312,7 +312,7 @@ AELab consists of interconnected modules designed to support different stages of
 
 ### 8.1 Application Dashboard
 
-![AELab Dashboard](<img src="https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb" alt="AELab Dashboard" width="500" />)
+![AELab Dashboard](https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb)
 
 
 Provides an overview of laboratory inventory conditions, including stock health, low-stock items and near-expiry chemicals.
@@ -323,11 +323,12 @@ Provides an overview of laboratory inventory conditions, including stock health,
 
 Allows users to search and view chemical information, stock availability, physical form and storage details.
 
-### 8.3 Request & Approval Workflow
+### 8.3 Request & Approval 
 
-![Request Form](https://github.com/user-attachments/assets/21ba23aa-e32c-4c9b-8073-d663f8d56466)
+<img width="200" height="400" src="https://github.com/user-attachments/assets/9cfb5745-8511-40ad-b622-5ec6ed00e572" />
 
-![Request Status](https://github.com/user-attachments/assets/17eed85c-7f29-4d70-9abb-f7370c7516f2)
+<img width="200" height="400" src="https://github.com/user-attachments/assets/c0637122-dfdb-487d-a94f-f4f82b109588" />
+
 
 Digitises chemical request submissions and approval processes, with automated status notifications.
 
@@ -339,15 +340,22 @@ Maintains a time-stamped record of chemical requests, stock additions and deduct
 
 ### 8.5 Gemini AI Integration
 
-![Gemini AI Safety Bot & AI Chatbot](https://github.com/user-attachments/assets/609992f2-f199-4427-bdab-b3aa7b0bcab6)
+Gemini AI Safety Bot & AI Chatbot:
 
-![Automated Email Alert](<https://github.com/user-attachments/assets/9b54240f-168e-41ff-b166-611fa77765e2)
+<img width="200" height="400" src="https://github.com/user-attachments/assets/054381d1-e01e-4284-90c2-d1a9de8cc227" />
+
+
+
+Automated Email Alert:
+
+![Email Alert](https://github.com/user-attachments/assets/a7c8e668-2384-4562-8880-f2bee86481c9)
+
 
 Provides AI-assisted chemical safety information, bilingual guidance and monthly inventory usage insights.
 
 ### 8.6 Demo Video
 
-**Application Walkthrough:** [Insert YouTube or Google Drive Demo Link]
+**Application Walkthrough:**![AELab Video Link](https://drive.google.com/file/d/1MMxLv1HJsIC6z8qfeAcCGiDYO9uJbylT/view?usp=sharing)
 
 The demonstration covers:
 1. Navigating the AELab dashboard.
