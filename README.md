@@ -312,7 +312,7 @@ AELab consists of interconnected modules designed to support different stages of
 
 ### 8.1 Application Dashboard
 
-![AELab Dashboard](https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb)
+![AELab Dashboard](<img src="https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb" alt="AELab Dashboard" width="500" />)
 
 
 Provides an overview of laboratory inventory conditions, including stock health, low-stock items and near-expiry chemicals.
