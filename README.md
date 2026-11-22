@@ -312,32 +312,36 @@ AELab consists of interconnected modules designed to support different stages of
 
 ### 8.1 Application Dashboard
 
-![AELab Dashboard]("https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb")
+![AELab Dashboard](https://github.com/user-attachments/assets/d2f252d3-ebe7-455c-8abd-a2a16d46f6cb)
 
 
 Provides an overview of laboratory inventory conditions, including stock health, low-stock items and near-expiry chemicals.
 
 ### 8.2 Chemical Inventory Catalogue
 
-![Chemical Inventory](assets/images/inventory.png)
+![Chemical Inventory](https://github.com/user-attachments/assets/17c2eab8-ef38-4eab-9782-c580be1aa0e2)
 
 Allows users to search and view chemical information, stock availability, physical form and storage details.
 
 ### 8.3 Request & Approval Workflow
 
-![Request Workflow](assets/images/request-approval.png)
+![Request Form](https://github.com/user-attachments/assets/21ba23aa-e32c-4c9b-8073-d663f8d56466)
+
+![Request Status](https://github.com/user-attachments/assets/17eed85c-7f29-4d70-9abb-f7370c7516f2)
 
 Digitises chemical request submissions and approval processes, with automated status notifications.
 
 ### 8.4 Activity Log
 
-![Activity Log](assets/images/activity-log.png)
+![Activity Log](https://github.com/user-attachments/assets/0b100a7e-c941-4581-9f82-7e759d0a0c6c)
 
 Maintains a time-stamped record of chemical requests, stock additions and deductions for improved traceability.
 
 ### 8.5 Gemini AI Integration
 
-![Gemini AI Features](assets/images/gemini-ai.png)
+![Gemini AI Safety Bot & AI Chatbot](https://github.com/user-attachments/assets/609992f2-f199-4427-bdab-b3aa7b0bcab6)
+
+![Automated Email Alert](<https://github.com/user-attachments/assets/9b54240f-168e-41ff-b166-611fa77765e2)
 
 Provides AI-assisted chemical safety information, bilingual guidance and monthly inventory usage insights.
 
